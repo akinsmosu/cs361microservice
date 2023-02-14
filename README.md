@@ -6,7 +6,7 @@ Returns a *n* by *n* list of list that are diagonally dominant for use in a
 Gauss Seidel Method application. Additionally, returns a final list of *n*
 length.
 
-Clone the repository or copy files into your applicaiton directory.
+Clone the repository or copy files into your application directory.
 
 ## Start server and listen
 Start the server with the command:
